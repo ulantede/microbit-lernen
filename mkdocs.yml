@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Anleitungen für den Microbit
+
+theme:
+  name: mkdocs
+  analytics:
+    gtag: G-E3SCXW4P9D
