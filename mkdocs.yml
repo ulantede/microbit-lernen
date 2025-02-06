@@ -1,6 +1,9 @@
 site_name: Anleitungen für den Microbit
 
 theme:
-  name: mkdocs
+  name: readthedocs
   analytics:
     gtag: G-E3SCXW4P9D
+    
+extra_css:
+  - style.css
