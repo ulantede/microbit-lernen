@@ -12,9 +12,14 @@ ff420e // rot
 }
 
 .wy-nav-side {
-  background:#89DA59;
+  background:#80bd9e;
 }
 
 h1 {
-  color: #80bd9e;
+  color: #89DA59;
+}
+
+/* Schrift Inhaltsverzeichnis weiß für Kontrast */
+.wy-menu-vertical a {
+  color: #ffffff;
 }

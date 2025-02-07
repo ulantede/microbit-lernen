@@ -1,5 +1,9 @@
 site_name: Anleitungen für den Microbit
 
+nav:
+  - Startseite: index.md
+  - Leuchtpunkte: neopixel.md
+
 theme:
   name: readthedocs
   analytics:
