@@ -1,11 +1,20 @@
+/*
+ Farbpallette 01 Hell und Frisch
+ 
+f98866 // rosa
+ff420e // rot
+80bd9e //olivgrün
+89DA59 // hellgrün
+*/
+
 .wy-side-nav-search {
-  background-color:#f69454;
+  background-color:#ff420e;
 }
 
 .wy-nav-side {
-  background:#739f3d;
+  background:#89DA59;
 }
 
 h1 {
-  color: #ee693f;
+  color: #80bd9e;
 }
