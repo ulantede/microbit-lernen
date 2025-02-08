@@ -1,25 +1,21 @@
 /*
- Farbpallette 01 Hell und Frisch
+ Farbpallette 35 Nachtleben
  
-f98866 // rosa
-ff420e // rot
-80bd9e //olivgrün
-89DA59 // hellgrün
+00cffa Cyan
+ff0038 Magenta
+ffce38 Yellow
+020509 Black
+
 */
 
 .wy-side-nav-search {
-  background-color:#ff420e;
+  background-color:#00cffa;
 }
 
 .wy-nav-side {
-  background:#80bd9e;
+  background:#020509;
 }
 
 h1 {
-  color: #89DA59;
-}
-
-/* Schrift Inhaltsverzeichnis weiß für Kontrast */
-.wy-menu-vertical a {
-  color: #ffffff;
+  color: #ff0038;
 }
